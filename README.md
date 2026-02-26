@@ -1,7 +1,7 @@
 
 # Live Recruiting KPI Dashboard 🚀
 
-I’m always fiddling with new tools and building small systems, so I built this lightweight recruiting KPI dashboard to demonstrate how I think about operational visibility in a lean environment.
+I’m always fiddling with new tools and building small systems, so I built this lightweight recruiting KPI dashboard 
 
 ## The Idea
 
