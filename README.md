@@ -3,6 +3,9 @@
 
 I’m always fiddling with new tools and building small systems, so I built this lightweight recruiting KPI dashboard 
 
+🎥 **Demo Video:** [Watch the demo](https://www.loom.com/share/e852a4343d934cfe9b33fe2153c95848)
+
+
 ## The Idea
 
 Early-stage startups often find hires through multiple channels — events, LinkedIn, referrals, cold outreach — but visibility into performance across those channels can be fragmented.
