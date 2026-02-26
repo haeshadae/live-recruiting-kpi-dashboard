@@ -22,13 +22,13 @@ When candidate data changes, the system updates the database and recalculates ke
 - Hire rate  
 - Average & median touchpoints to hire  
 
-For demo purposes, webhook events can also be simulated via `curl` to demonstrate instant updates.
+For demo purposes, webhook events can also be simulated via `curl` to demonstrate instant updates. Zapier has a bit of a lag
 
 ## Why I Built This
 
-I wanted to explore how lightweight, event-driven systems can provide real-time operational visibility without relying on a full ATS stack like Ashby or Lever.
+I wanted to show hiring teams/founders that I'm not spending my days sitting around. I'm actively upskilling and learning new tools during 
+my transition period so I can hit the ground running when I get my next, amazing opportunity!
 
-This mirrors how I’d approach building internal tooling in a resource-constrained startup environment.
 
 ---
 
