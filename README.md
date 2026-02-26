@@ -26,8 +26,7 @@ For demo purposes, webhook events can also be simulated via `curl` to demonstrat
 
 ## Why I Built This
 
-I wanted to show hiring teams/founders that I'm not spending my days sitting around. I'm actively upskilling and learning new tools during 
-my transition period so I can hit the ground running when I get my next, amazing opportunity!
+I wanted to show hiring teams and/or founders that I'm not spending my days sitting around. I'm actively upskilling and learning new tools during my transition period so I can hit the ground running when I get my next, amazing opportunity!
 
 
 ---
