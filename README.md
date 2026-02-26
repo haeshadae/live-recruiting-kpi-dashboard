@@ -30,8 +30,8 @@ I wanted to show hiring teams and/or founders that I'm not spending my days sitt
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard-screenshot.png)
----
+![Dashboard Screenshot](dashboard_screenshot.png)
+
 
 ## Tech Stack
 
